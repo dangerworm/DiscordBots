@@ -1,0 +1,11 @@
+{
+  "name": "lookup",
+  "version": "0.0.1",
+  "description": "A bot for looking up flight information",
+  "main": "bot.js",
+  "author": "Drew Morgan (dangerworm)",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^3.2.1"
+  }
+}
